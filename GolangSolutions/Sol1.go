@@ -1,5 +1,6 @@
-//Solution 1 - Time Complexity O(1)
-//
+// -----------------------------------
+// Solution 1 - Time Complexity O(1)
+// -----------------------------------
 package main
 
 import (
