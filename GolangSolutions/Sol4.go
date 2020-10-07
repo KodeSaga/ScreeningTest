@@ -47,3 +47,4 @@ func main() {
 	K := 3
 	
 	fmt.Println("\nMax nails at same height = ", maxSameHeight(A,K))
+}
